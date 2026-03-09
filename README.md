@@ -1,4 +1,4 @@
-# PUM: Projektowanie Usług z Wykorzystaniem Metod AI
+# PUM: Podstawy Uczenia Maszynowego
 
 ## Idea projektu
 
