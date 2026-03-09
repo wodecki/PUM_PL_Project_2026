@@ -1,6 +1,6 @@
 # PUM: Projektowanie Usług z Wykorzystaniem Metod AI
 
-## O czym to jest?
+## Idea projektu
 
 Jesteś **analitykiem danych** w **MajsterPlus**, polskiej sieci sklepów budowlanych z 12 placówkami. Około 18% klientów jest nieaktywnych (brak zakupu od ponad 90 dni). Twoja misja: zbudować model machine learning, który przewiduje zagrożonych klientów i zaproponować kampanię reaktywacyjną.
 
@@ -44,7 +44,7 @@ Zrealizujesz **5 mini-projektów (MP1-MP5)** zgodnie z metodyką CRISP-DM — od
 
 Każdy MP opiera się na poprzednim. Zapisz checkpoint na końcu każdego MP — następny notatnik go wczytuje.
 
-## Zostajesz w tyle?
+## Punkty kontrolne
 
 Bazowe punkty kontrolne w `2. data/checkpoints/` pozwalają rozpocząć dowolny MP bez ukończenia poprzednich. Instrukcje wczytywania znajdziesz w `2. data/checkpoints/README.md`.
 
@@ -57,6 +57,6 @@ Wszyscy studenci muszą uzyskać **identyczne wyniki liczbowe** (odpowiedzi w te
 
 Jeśli Twoje wyniki MP2 nie zgadzają się, uruchom `3. notatniki/skrypty/verify_checkpoint.py`, aby dowiedzieć się dlaczego.
 
-## Ocenianie
+## Zasady oceniania
 
 5 mini-projektów × 10 pytań MCQ = **50 pytań łącznie**, dostępnych przez Edux w oknie 48 godzin, z 3 próbami na test. Szczegóły w `1. projekt/2. opis_projektu.md`.
